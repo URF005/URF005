@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama Rehan Farooqi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Flutter & Firebase**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/URF005](https://github.com/URF005)
 
