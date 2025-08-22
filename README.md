@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Usama Rehan Farooqi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h3 align="center">A passionate Full Stack developer from Pakistan.</h3>
 
 - 🌱 I’m currently learning **Blockchain Application Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/URF005](https://github.com/URF005)
+- 👨‍💻 All of my projects are available at [https://urf005.github.io/URF_Portfolio.github.io/](https://urf005.github.io/URF_Portfolio.github.io/)
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React.js & Next.js**
 
 - 📫 How to reach me **ur476902@gmail.com**
 
